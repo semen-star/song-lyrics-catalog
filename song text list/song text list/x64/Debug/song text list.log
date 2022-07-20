@@ -1,0 +1,9 @@
+﻿  Class_Vector.cpp
+C:\Users\Семён\Desktop\exam work\song-lyrics-catalog\song text list\song text list\MyClass.h(2,10): fatal error C1083: Не удается открыть файл включение: Class_MyString.h: No such file or directory,
+  date.cpp
+C:\Users\Семён\Desktop\exam work\song-lyrics-catalog\song text list\song text list\date.cpp(1,10): fatal error C1083: Не удается открыть файл включение: Class_date.h: No such file or directory,
+  MyClass.cpp
+C:\Users\Семён\Desktop\exam work\song-lyrics-catalog\song text list\song text list\MyClass.h(2,10): fatal error C1083: Не удается открыть файл включение: Class_MyString.h: No such file or directory,
+  MyString.cpp
+C:\Users\Семён\Desktop\exam work\song-lyrics-catalog\song text list\song text list\MyString.cpp(1,10): fatal error C1083: Не удается открыть файл включение: Class_MyString.h: No such file or directory,
+  Создание кода...
